@@ -5,6 +5,24 @@ Nifty Nerds Network ("NNN"), which gathers several AAA games, is a game-fi launc
 
 NNN is the result of a collaboration between AAA game studio alumni, TradiFi/DeFi experts, Web3 native degens, and market makers, creating a unique and powerful network.
 
+### Links and Descriptions of the Work:
+
+#### Launchpad - Launchpad with NNN Features
+
+- **Telegram App Link:** [NNN Launchpad Bot](https://t.me/niftynerdsnetwork_bot)
+- **Smart Contract:** [GitHub Repository](https://github.com/NNNTechLabs/nnn-smart-contract)
+  - **Deploy:** [TON Scan Address](https://testnet.tonscan.org/address/EQBsklt-v9ftMsh1JXfn34oRAoj9OD6Ou3miSnzHSl0xLl8O)
+- **Front-End Code:** [GitHub Repository](https://github.com/NNNTechLabs/NNN-TG-Mini-APP)
+- **Back-End Code:** [GitHub Repository](https://github.com/NNNTechLabs/NNN-Backend-APIs)
+
+#### SquadBot
+
+SquadBot to help games onboard to Telegram
+
+- **Front-End Code:** [GitHub Repository](https://github.com/YAY-LABS/TG_SquadWeb)
+- **Back-End Code:** [GitHub Repository](https://github.com/YAY-LABS/TG-SquadBot)
+
+
 ## Key Highlights
 
 - **Team Background:**
