@@ -13,7 +13,7 @@ NNN is the result of a collaboration between AAA game studio alumni, TradiFi/DeF
 - **Smart Contract:** [GitHub Repository](https://github.com/NiftyNerdsNetwork/nnn-smart-contract)
   - **Deploy:** [TON Scan Address](https://testnet.tonscan.org/address/EQBsklt-v9ftMsh1JXfn34oRAoj9OD6Ou3miSnzHSl0xLl8O)
 - **Front-End Code:** [GitHub Repository](https://github.com/NiftyNerdsNetwork/NNN-TG-Mini-APP)
-- **Back-End Code:** [GitHub Repository](https://github.com/NNNTechLabs/NNN-Backend-APIs)
+- **Back-End Code:** [GitHub Repository](https://github.com/NiftyNerdsNetwork/NNN-Backend-APIs)
 
 #### SquadBot
 
