@@ -10,9 +10,9 @@ NNN is the result of a collaboration between AAA game studio alumni, TradiFi/DeF
 #### Launchpad - Launchpad with NNN Features
 
 - **Telegram App Link:** [NNN Launchpad Bot](https://t.me/niftynerdsnetwork_bot)
-- **Smart Contract:** [GitHub Repository](https://github.com/NNNTechLabs/nnn-smart-contract)
+- **Smart Contract:** [GitHub Repository](https://github.com/NiftyNerdsNetwork/nnn-smart-contract)
   - **Deploy:** [TON Scan Address](https://testnet.tonscan.org/address/EQBsklt-v9ftMsh1JXfn34oRAoj9OD6Ou3miSnzHSl0xLl8O)
-- **Front-End Code:** [GitHub Repository](https://github.com/NNNTechLabs/NNN-TG-Mini-APP)
+- **Front-End Code:** [GitHub Repository](https://github.com/NiftyNerdsNetwork/NNN-TG-Mini-APP)
 - **Back-End Code:** [GitHub Repository](https://github.com/NNNTechLabs/NNN-Backend-APIs)
 
 #### SquadBot
